@@ -21,6 +21,7 @@
     "@iconify-json/simple-icons": "^1.2.5",
     "@playform/compress": "^0.1.1",
     "astro": "4.15.11",
+    "astro-aws-amplify": "^0.1.0",
     "astro-icon": "^1.1.1",
     "hotkeypad": "0.1.1",
     "prettier-plugin-tailwindcss": "^0.6.8",

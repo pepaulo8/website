@@ -4,35 +4,23 @@
   "basics": {
     "name": "Pedro Paulo",
     "label": "Full Stack Developer",
-    "image": "/avatar.png",
+    "image": "/perfil.jpg",
     "email": "pedropsales08@gmail.com",
     "url": "https://www.gcxstudio.cn",
     "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "green",
+    "theme": "blue",
     "location": {
       "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "city": "Fortaleza",
+      "countryCode": "CE",
+      "region": "Brasil"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
-      },
-      {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "pepaulo8",
+        "url": "https://github.com/pepaulo8"
       }
     ],
     "beian": {

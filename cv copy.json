@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Pedro Paulo",
+    "label": "Full Stack Developer",
+    "image": "/avatar.png",
+    "email": "pedropsales08@gmail.com",
+    "location": {
+      "address": "Embira 165",
+      "city": "Fortaleza",
+      "countryCode": "BR",
+      "region": "Brasil"
+    },
+    "profiles": [
+      {
+        "network": "Bilibili",
+        "icon": "ri:bilibili-line",
+        "username": "MiraHikari",
+        "url": "https://space.bilibili.com/480025691"
+      },
+      {
+        "network": "QQ",
+        "icon": "ri:qq-fill",
+        "username": "Gong_cx",
+        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "MiraHikari",
+        "url": "https://github.com/MiraHikari"
+      }
+    ]
+
+  },
+  "skills": [
+    "Typescript", "Javascript", "Node", "Nest", "Express", "React", "Vue", 
+    "Redux", "Postgres", "MongoDB", "Prisma", "TypeORM", "NoSQL", "Git", 
+    "Java", "Python", "AWS", "Docker", "Kubernetes", "Elastic Beanstalk", 
+    "EC2", "Amplify", "Cloud Computing", "CI/CD", "CloudWatch", "Unit Testing", 
+    "Lambda", "OOP", "Microsserviços", "Design de sistemas", "Frontend", 
+    "Backend", "Full-Stack", "Inglês", "Português"
+  ],
+  "work": [
+    {
+      "position": "Desenvolvedor Fullstack Pleno",
+      "company": "Witto",
+      "start_date": "06/2022",
+      "end_date": "Current",
+      "achievements": [
+        "Liderança da implementação de um novo segmento de negócio focado em avaliações de desempenho para clientes de RH, utilizando Prisma, Nest.js, Next.js, Postgresql, Express.js, Typescript e AWS.",
+        "Liderança de squad de desenvolvimento, aplicando metodologias ágeis para entrega de projetos dentro do prazo com alta qualidade.",
+        "Implementação de modelo de hierarquia em self-relations no banco de dados usando ltrees e indexação.",
+        "Desenvolvimento de relatórios detalhados e automação da implantação de bases de dados de clientes.",
+        "Resolução de bugs em produção com rapidez e mantendo a integridade do código.",
+        "Revisão de pull requests e mentoria de equipe para fortalecer a qualidade do código.",
+        "Análise de logs em AWS para identificar e resolver bugs em produção."
+      ]
+    },
+    {
+      "position": "Desenvolvedor Júnior",
+      "company": "Edukon",
+      "start_date": "06/2021",
+      "end_date": "06/2022",
+      "achievements": [
+        "Desenvolvimento de interfaces de usuário interativas e responsivas com React e TypeScript.",
+        "Implementação de back-end com Node.js e TypeORM.",
+        "Rápida adaptação a novas tecnologias e metodologias.",
+        "Colaboração multifuncional para implementação de novas funcionalidades.",
+        "Comunicação eficaz com stakeholders e equipe técnica."
+      ]
+    },
+    {
+      "position": "Estágio em Desenvolvimento",
+      "company": "Edukon",
+      "start_date": "01/2021",
+      "end_date": "06/2021",
+      "achievements": [
+        "Realização de testes de usuários, identificação de bugs e feedback para melhoria.",
+        "Participação em reuniões com clientes para definição de requisitos.",
+        "Desenvolvimento de telas e integração com APIs externas.",
+        "Utilização de SQL para extração e análise de dados."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bacharelado em Engenharia Civil",
+      "institution": "Universidade Federal do Ceará",
+      "location": "Fortaleza, CE",
+      "years": "2018 - 2024",
+      "project": "Criação de infraestrutura Docker para API de monitoramento do ar."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Curso Dev-Ops",
+      "description": "Criação e manutenção de VMs com GCP, CI/CD com GithubActions/Jenkins."
+    },
+    {
+      "name": "Video Player",
+      "description": "Criação de vídeo player com HTML5/CSS3/JavaScript para campanhas de marketing."
+    },
+    {
+      "name": "Palestra",
+      "description": "Palestrante no evento FrontendCE, abordando Observer Design Pattern."
+    },
+    {
+      "name": "Web Scraper",
+      "description": "Desenvolvimento de API para coletar dados de CNPJ através do site da Receita Federal."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Português",
+      "level": "Proficiência técnica ou acima"
+    },
+    {
+      "language": "Inglês",
+      "level": "Proficiência técnica ou acima"
+    }
+  ]
+}

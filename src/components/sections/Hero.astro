@@ -5,7 +5,7 @@ import { Icon } from 'astro-icon/components'
 import { Image } from 'astro:assets'
 
 const { name, label, image, location, profiles, email } = basics
-const { city, region, address } = location
+const { city, region, address, countryCode } = location
 ---
 
 <Section>
@@ -15,7 +15,7 @@ const { city, region, address } = location
       <h2>{label}</h2>
       <div class='flex items-center gap-2 pt-2 text-sm text-skin-muted'>
         <Icon class='print:hidden' name='mdi:world' width={20} height={20} />
-        {address}, {city}, {region}
+        {city}/{countryCode} - {region}
       </div>
       <footer class='print'>
         {email}
